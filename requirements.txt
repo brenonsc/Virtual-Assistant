@@ -1,0 +1,5 @@
+speechrecognition
+gtts
+playsound
+wikipedia
+pyaudio
