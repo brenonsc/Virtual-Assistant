@@ -56,7 +56,7 @@ def respond(text):
         strTime = datetime.today().strftime("%H:%M %p")
         print(strTime)
         speak(strTime)
-    elif 'exit' in text:
+    elif 'sair' in text:
         speak("Tchau, tchau, até a próxima!")
         exit()
 
